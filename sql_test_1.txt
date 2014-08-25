@@ -1,0 +1,838 @@
+create table test (
+f_0 float,
+f_1 float,
+f_2 float,
+f_3 float,
+f_4 float,
+f_5 float,
+f_6 float,
+f_7 float,
+f_8 float,
+f_9 float,
+f_10 float,
+f_11 float,
+f_12 float,
+f_13 float,
+f_14 float,
+f_15 float,
+f_16 float,
+f_17 float,
+f_18 float,
+f_19 float,
+f_20 float,
+f_21 float,
+f_22 float,
+f_23 float,
+f_24 float,
+f_25 float,
+f_26 float,
+f_27 float,
+f_28 float,
+f_29 float,
+f_30 float,
+f_31 float,
+f_32 float,
+f_33 float,
+f_34 float,
+f_35 float,
+f_36 float,
+f_37 float,
+f_38 float,
+f_39 float,
+f_40 float,
+f_41 float,
+f_42 float,
+f_43 float,
+f_44 float,
+f_45 float,
+f_46 float,
+f_47 float,
+f_48 float,
+f_49 float,
+f_50 float,
+f_51 float,
+f_52 float,
+f_53 float,
+f_54 float,
+f_55 float,
+f_56 float,
+f_57 float,
+f_58 float,
+f_59 float,
+f_60 float,
+f_61 varchar(10),
+f_62 float,
+f_63 float,
+f_64 float,
+f_65 float,
+f_66 float,
+f_67 float,
+f_68 float,
+f_69 float,
+f_70 float,
+f_71 float,
+f_72 float,
+f_73 float,
+f_74 float,
+f_75 float,
+f_76 float,
+f_77 float,
+f_78 float,
+f_79 float,
+f_80 float,
+f_81 float,
+f_82 float,
+f_83 float,
+f_84 float,
+f_85 float,
+f_86 float,
+f_87 float,
+f_88 float,
+f_89 float,
+f_90 float,
+f_91 float,
+f_92 float,
+f_93 float,
+f_94 float,
+f_95 float,
+f_96 float,
+f_97 float,
+f_98 float,
+f_99 float,
+f_100 float,
+f_101 float,
+f_102 float,
+f_103 float,
+f_104 float,
+f_105 float,
+f_106 float,
+f_107 float,
+f_108 float,
+f_109 float,
+f_110 float,
+f_111 float,
+f_112 float,
+f_113 float,
+f_114 float,
+f_115 float,
+f_116 float,
+f_117 float,
+f_118 float,
+f_119 float,
+f_120 float,
+f_121 varchar(10),
+f_122 float,
+f_123 float,
+f_124 float,
+f_125 float,
+f_126 float,
+f_127 float,
+f_128 float,
+f_129 float,
+f_130 float,
+f_131 float,
+f_132 float,
+f_133 float,
+f_134 float,
+f_135 float,
+f_136 float,
+f_137 float,
+f_138 float,
+f_139 float,
+f_140 float,
+f_141 float,
+f_142 float,
+f_143 float,
+f_144 float,
+f_145 float,
+f_146 float,
+f_147 float,
+f_148 float,
+f_149 float,
+f_150 float,
+f_151 float,
+f_152 float,
+f_153 float,
+f_154 float,
+f_155 float,
+f_156 float,
+f_157 float,
+f_158 float,
+f_159 float,
+f_160 float,
+f_161 float,
+f_162 float,
+f_163 float,
+f_164 float,
+f_165 float,
+f_166 float,
+f_167 float,
+f_168 float,
+f_169 float,
+f_170 float,
+f_171 float,
+f_172 float,
+f_173 float,
+f_174 float,
+f_175 float,
+f_176 float,
+f_177 float,
+f_178 float,
+f_179 float,
+f_180 float,
+f_181 float,
+f_182 float,
+f_183 float,
+f_184 float,
+f_185 float,
+f_186 float,
+f_187 float,
+f_188 float,
+f_189 float,
+f_190 float,
+f_191 float,
+f_192 float,
+f_193 float,
+f_194 float,
+f_195 float,
+f_196 float,
+f_197 float,
+f_198 float,
+f_199 float,
+f_200 float,
+f_201 float,
+f_202 float,
+f_203 float,
+f_204 float,
+f_205 float,
+f_206 float,
+f_207 float,
+f_208 float,
+f_209 float,
+f_210 float,
+f_211 float,
+f_212 float,
+f_213 float,
+f_214 float,
+f_215 varchar(10),
+f_216 float,
+f_217 float,
+f_218 float,
+f_219 float,
+f_220 float,
+f_221 float,
+f_222 float,
+f_223 float,
+f_224 float,
+f_225 float,
+f_226 float,
+f_227 float,
+f_228 float,
+f_229 float,
+f_230 float,
+f_231 float,
+f_232 float,
+f_233 float,
+f_234 float,
+f_235 float,
+f_236 float,
+f_237 varchar(10),
+f_238 float,
+f_239 float,
+f_240 float,
+f_241 float,
+f_242 float,
+f_243 float,
+f_244 float,
+f_245 float,
+f_246 float,
+f_247 float,
+f_248 float,
+f_249 float,
+f_250 float,
+f_251 float,
+f_252 float,
+f_253 float
+
+);
+
+load data local infile 'C:/Users/econometrican/Desktop/captial one code challenge/codetest_test.txt' into table test;
+
+delete from test limit 1; 
+
+alter table test
+add column f_61_1 float,
+add column f_61_2 float,
+add column f_61_3 float,
+add column f_121_1 float,
+add column f_121_2 float,
+add column f_121_3 float,
+add column f_215_1 float,
+add column f_215_2 float,
+add column f_215_3 float,
+add column f_237_1 float,
+add column f_237_2 float,
+add column f_237_3 float;
+
+update test set 
+f_61_1 = 0, 
+f_61_2 = 0, 
+f_61_3 = 0 
+where f_61 = 'a';
+
+update test set 
+f_61_1 = 0, 
+f_61_2 = 0, 
+f_61_3 = 1 
+where f_61 = 'b';
+
+update test set 
+f_61_1 = 0, 
+f_61_2 = 1, 
+f_61_3 = 0 
+where f_61 = 'c';
+
+update test set 
+f_61_1 = 0, 
+f_61_2 = 1, 
+f_61_3 = 1 
+where f_61 = 'd';
+
+update test set 
+f_61_1 = 1, 
+f_61_2 = 0, 
+f_61_3 = 0 
+where f_61 = 'e';
+
+update test set 
+f_61_1 = 1, 
+f_61_2 = 0, 
+f_61_3 = 1 
+where f_61  = “”;
+
+update test set 
+f_121_1 = 0, 
+f_121_2 = 0, 
+f_121_3 = 0 
+where f_121 = 'A';
+
+update test set 
+f_121_1 = 0, 
+f_121_2 = 0, 
+f_121_3 = 1 
+where f_121 = 'B';
+
+update test set 
+f_121_1 = 0, 
+f_121_2 = 1, 
+f_121_3 = 0 
+where f_121 = 'C';
+
+update test set 
+f_121_1 = 0, 
+f_121_2 = 1, 
+f_121_3 = 1 
+where f_121 = 'D';
+
+update test set 
+f_121_1 = 1, 
+f_121_2 = 0, 
+f_121_3 = 0 
+where f_121 = 'E';
+
+update test set 
+f_121_1 = 1, 
+f_121_2 = 0, 
+f_121_3 = 1 
+where f_121 ='F';
+
+update test set 
+f_121_1 = 1, 
+f_121_2 = 1, 
+f_121_3 = 0 
+where f_121  = “”;
+
+
+update test set 
+f_215_1 = 0, 
+f_215_2 = 0, 
+f_215_3 = 0 
+where f_215 = 'red';
+
+update test set 
+f_215_1 = 0, 
+f_215_2 = 0, 
+f_215_3 = 1 
+where f_215 = 'blue';
+
+update test set 
+f_215_1 = 0, 
+f_215_2 = 1, 
+f_215_3 = 0 
+where f_215 = 'orange';
+
+update test set 
+f_215_1 = 0, 
+f_215_2 = 1, 
+f_215_3 = 1 
+where f_215 = 'yellow';
+
+update test set 
+f_215_1 = 1, 
+f_215_2 = 1, 
+f_215_3 = 0
+where f_215  = “”;
+
+update test set 
+f_237_1 = 0, 
+f_237_2 = 0, 
+f_237_3 = 0 
+where f_237 = 'USA';
+
+update test set 
+f_237_1 = 0, 
+f_237_2 = 0, 
+f_237_3 = 1 
+where f_237 = 'Canada';
+
+update test set 
+f_237_1 = 0, 
+f_237_2 = 1, 
+f_237_3 = 0 
+where f_237 = 'Mexico';
+
+update test set 
+f_237_1 = 0, 
+f_237_2 = 1, 
+f_237_3 = 1
+where f_237  = “”;
+
+alter table test drop column f_61;
+alter table test drop column f_121;
+alter table test drop column f_215;
+alter table test drop column f_237;
+
+SELECT * 
+FROM test 
+INTO OUTFILE 'C:/Users/econometrican/Desktop/captial one code challenge/test.csv' FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n';
+
+
+create table train (
+target float,
+f_0 float,
+f_1 float,
+f_2 float,
+f_3 float,
+f_4 float,
+f_5 float,
+f_6 float,
+f_7 float,
+f_8 float,
+f_9 float,
+f_10 float,
+f_11 float,
+f_12 float,
+f_13 float,
+f_14 float,
+f_15 float,
+f_16 float,
+f_17 float,
+f_18 float,
+f_19 float,
+f_20 float,
+f_21 float,
+f_22 float,
+f_23 float,
+f_24 float,
+f_25 float,
+f_26 float,
+f_27 float,
+f_28 float,
+f_29 float,
+f_30 float,
+f_31 float,
+f_32 float,
+f_33 float,
+f_34 float,
+f_35 float,
+f_36 float,
+f_37 float,
+f_38 float,
+f_39 float,
+f_40 float,
+f_41 float,
+f_42 float,
+f_43 float,
+f_44 float,
+f_45 float,
+f_46 float,
+f_47 float,
+f_48 float,
+f_49 float,
+f_50 float,
+f_51 float,
+f_52 float,
+f_53 float,
+f_54 float,
+f_55 float,
+f_56 float,
+f_57 float,
+f_58 float,
+f_59 float,
+f_60 float,
+f_61 varchar(10),
+f_62 float,
+f_63 float,
+f_64 float,
+f_65 float,
+f_66 float,
+f_67 float,
+f_68 float,
+f_69 float,
+f_70 float,
+f_71 float,
+f_72 float,
+f_73 float,
+f_74 float,
+f_75 float,
+f_76 float,
+f_77 float,
+f_78 float,
+f_79 float,
+f_80 float,
+f_81 float,
+f_82 float,
+f_83 float,
+f_84 float,
+f_85 float,
+f_86 float,
+f_87 float,
+f_88 float,
+f_89 float,
+f_90 float,
+f_91 float,
+f_92 float,
+f_93 float,
+f_94 float,
+f_95 float,
+f_96 float,
+f_97 float,
+f_98 float,
+f_99 float,
+f_100 float,
+f_101 float,
+f_102 float,
+f_103 float,
+f_104 float,
+f_105 float,
+f_106 float,
+f_107 float,
+f_108 float,
+f_109 float,
+f_110 float,
+f_111 float,
+f_112 float,
+f_113 float,
+f_114 float,
+f_115 float,
+f_116 float,
+f_117 float,
+f_118 float,
+f_119 float,
+f_120 float,
+f_121 varchar(10),
+f_122 float,
+f_123 float,
+f_124 float,
+f_125 float,
+f_126 float,
+f_127 float,
+f_128 float,
+f_129 float,
+f_130 float,
+f_131 float,
+f_132 float,
+f_133 float,
+f_134 float,
+f_135 float,
+f_136 float,
+f_137 float,
+f_138 float,
+f_139 float,
+f_140 float,
+f_141 float,
+f_142 float,
+f_143 float,
+f_144 float,
+f_145 float,
+f_146 float,
+f_147 float,
+f_148 float,
+f_149 float,
+f_150 float,
+f_151 float,
+f_152 float,
+f_153 float,
+f_154 float,
+f_155 float,
+f_156 float,
+f_157 float,
+f_158 float,
+f_159 float,
+f_160 float,
+f_161 float,
+f_162 float,
+f_163 float,
+f_164 float,
+f_165 float,
+f_166 float,
+f_167 float,
+f_168 float,
+f_169 float,
+f_170 float,
+f_171 float,
+f_172 float,
+f_173 float,
+f_174 float,
+f_175 float,
+f_176 float,
+f_177 float,
+f_178 float,
+f_179 float,
+f_180 float,
+f_181 float,
+f_182 float,
+f_183 float,
+f_184 float,
+f_185 float,
+f_186 float,
+f_187 float,
+f_188 float,
+f_189 float,
+f_190 float,
+f_191 float,
+f_192 float,
+f_193 float,
+f_194 float,
+f_195 float,
+f_196 float,
+f_197 float,
+f_198 float,
+f_199 float,
+f_200 float,
+f_201 float,
+f_202 float,
+f_203 float,
+f_204 float,
+f_205 float,
+f_206 float,
+f_207 float,
+f_208 float,
+f_209 float,
+f_210 float,
+f_211 float,
+f_212 float,
+f_213 float,
+f_214 float,
+f_215 varchar(10),
+f_216 float,
+f_217 float,
+f_218 float,
+f_219 float,
+f_220 float,
+f_221 float,
+f_222 float,
+f_223 float,
+f_224 float,
+f_225 float,
+f_226 float,
+f_227 float,
+f_228 float,
+f_229 float,
+f_230 float,
+f_231 float,
+f_232 float,
+f_233 float,
+f_234 float,
+f_235 float,
+f_236 float,
+f_237 varchar(10),
+f_238 float,
+f_239 float,
+f_240 float,
+f_241 float,
+f_242 float,
+f_243 float,
+f_244 float,
+f_245 float,
+f_246 float,
+f_247 float,
+f_248 float,
+f_249 float,
+f_250 float,
+f_251 float,
+f_252 float,
+f_253 float
+
+);
+
+load data local infile 'C:/Users/econometrican/Desktop/captial one code challenge/codetest_train.txt' into table train;
+
+delete from train limit 1; 
+
+alter table train
+add column f_61_1 float,
+add column f_61_2 float,
+add column f_61_3 float,
+add column f_121_1 float,
+add column f_121_2 float,
+add column f_121_3 float,
+add column f_215_1 float,
+add column f_215_2 float,
+add column f_215_3 float,
+add column f_237_1 float,
+add column f_237_2 float,
+add column f_237_3 float;
+
+update train set 
+f_61_1 = 0, 
+f_61_2 = 0, 
+f_61_3 = 0 
+where f_61 = 'a';
+
+update train set 
+f_61_1 = 0, 
+f_61_2 = 0, 
+f_61_3 = 1 
+where f_61 = 'b';
+
+update train set 
+f_61_1 = 0, 
+f_61_2 = 1, 
+f_61_3 = 0 
+where f_61 = 'c';
+
+update train set 
+f_61_1 = 0, 
+f_61_2 = 1, 
+f_61_3 = 1 
+where f_61 = 'd';
+
+update train set 
+f_61_1 = 1, 
+f_61_2 = 0, 
+f_61_3 = 0 
+where f_61 = 'e';
+
+update train set 
+f_61_1 = 1, 
+f_61_2 = 0, 
+f_61_3 = 1 
+where f_61  = “”;
+
+update train set 
+f_121_1 = 0, 
+f_121_2 = 0, 
+f_121_3 = 0 
+where f_121 = 'A';
+
+update train set 
+f_121_1 = 0, 
+f_121_2 = 0, 
+f_121_3 = 1 
+where f_121 = 'B';
+
+update train set 
+f_121_1 = 0, 
+f_121_2 = 1, 
+f_121_3 = 0 
+where f_121 = 'C';
+
+update train set 
+f_121_1 = 0, 
+f_121_2 = 1, 
+f_121_3 = 1 
+where f_121 = 'D';
+
+update train set 
+f_121_1 = 1, 
+f_121_2 = 0, 
+f_121_3 = 0 
+where f_121 = 'E';
+
+update train set 
+f_121_1 = 1, 
+f_121_2 = 0, 
+f_121_3 = 1 
+where f_121 ='F';
+
+update train set 
+f_121_1 = 1, 
+f_121_2 = 1, 
+f_121_3 = 0 
+where f_121  = “”;
+
+
+update train set 
+f_215_1 = 0, 
+f_215_2 = 0, 
+f_215_3 = 0 
+where f_215 = 'red';
+
+update train set 
+f_215_1 = 0, 
+f_215_2 = 0, 
+f_215_3 = 1 
+where f_215 = 'blue';
+
+update train set 
+f_215_1 = 0, 
+f_215_2 = 1, 
+f_215_3 = 0 
+where f_215 = 'orange';
+
+update train set 
+f_215_1 = 0, 
+f_215_2 = 1, 
+f_215_3 = 1 
+where f_215 = 'yellow';
+
+update train set 
+f_215_1 = 1, 
+f_215_2 = 1, 
+f_215_3 = 0
+where f_215  = “”;
+
+update train set 
+f_237_1 = 0, 
+f_237_2 = 0, 
+f_237_3 = 0 
+where f_237 = 'USA';
+
+update train set 
+f_237_1 = 0, 
+f_237_2 = 0, 
+f_237_3 = 1 
+where f_237 = 'Canada';
+
+update train set 
+f_237_1 = 0, 
+f_237_2 = 1, 
+f_237_3 = 0 
+where f_237 = 'Mexico';
+
+update train set 
+f_237_1 = 0, 
+f_237_2 = 1, 
+f_237_3 = 1
+where f_237  = “”;
+
+alter table train drop column f_61;
+alter table train drop column f_121;
+alter table train drop column f_215;
+alter table train drop column f_237;
+
+SELECT * 
+FROM train 
+INTO OUTFILE 'C:/Users/econometrican/Desktop/captial one code challenge/train.csv' FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n';
+
